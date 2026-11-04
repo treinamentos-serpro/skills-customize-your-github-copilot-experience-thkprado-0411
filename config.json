@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "persistencia-de-tarefas-com-sqlite",
+      "title": "Persistência de Tarefas com SQLite",
+      "description": "Adapte a API de tarefas com FastAPI para salvar e consultar dados usando SQLite.",
+      "path": "assignments/persistencia-de-tarefas-com-sqlite",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
