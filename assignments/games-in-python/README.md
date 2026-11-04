@@ -1,10 +1,10 @@
-# 📘 Assignment: Jogos em Python
+# 📘 Atividade: Jogos em Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Pratique o uso de strings, entrada de dados, condicionais, laços de repetição e seleção aleatória em Python. Ao final, você terá implementado dois jogos interativos no terminal.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Jogo da Forca
 
