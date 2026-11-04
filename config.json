@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-with-fastapi",
+      "title": "Construindo APIs REST com FastAPI",
+      "description": "Crie e teste uma API REST para gerenciar tarefas com FastAPI.",
+      "path": "assignments/building-rest-apis-with-fastapi",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependências",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
